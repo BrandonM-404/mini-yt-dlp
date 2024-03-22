@@ -9,3 +9,5 @@ Everything else should run and download audio/video locally to the file location
 
 DEPENDENCIES
 The "Audio" bat file requires Ffmpeg installed to convert the codec to mp3.
+
+Uses https://github.com/yt-dlp/yt-dlp which relies on Python 3.8 at time of writing.
